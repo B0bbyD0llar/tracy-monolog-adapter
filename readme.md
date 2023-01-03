@@ -1,8 +1,7 @@
 Nextras Tracy-Monolog Adapter
 =============================
 
-[![Downloads this Month](https://img.shields.io/packagist/dm/nextras/tracy-monolog-adapter.svg?style=flat)](https://packagist.org/packages/nextras/tracy-monolog-adapter)
-[![Stable version](http://img.shields.io/packagist/v/nextras/tracy-monolog-adapter.svg?style=flat)](https://packagist.org/packages/nextras/tracy-monolog-adapter)
+Please refer to original [nextras/tracy-monolog-adapter](https://github.com/nextras/tracy-monolog-adapter).
 
 ### Installation
 
